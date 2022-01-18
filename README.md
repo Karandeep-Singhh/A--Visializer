@@ -1,4 +1,4 @@
-# A--Visializer
+# A-Star-Visializer
 
 A-Star search algorithm visialize using pygame in python.
 
